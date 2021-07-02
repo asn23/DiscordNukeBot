@@ -1,0 +1,7 @@
+{
+    "prefix":"-", /// PREFIX OF BOT
+    "token":"Token Here", /// BOT TOKEN AND MAKE SURE BOT HAS Privileged Gateway Intents ON
+    "DisableEveryone": false,  /// THIS WILL LET ANYONE TO USE COMMAND IF ITS IN FALSE
+    "ID": "813743567746760714", /// BOT ID
+    "founder": "7teen#3868" /// FOUNDER NAME
+}
