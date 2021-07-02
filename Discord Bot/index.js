@@ -26,7 +26,7 @@ const presser = String.raw`
                                                             
                                                                       
 
-                                        ICICI BANK OFFFICAL
+                                        RUNNING BOT
 
 `;
 
